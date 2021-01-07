@@ -1,2 +1,2 @@
 import {MikroORM} from  "@mikro-orm/core";
-console.log("Wello word ");
+console.log("Wello word  friend ");
